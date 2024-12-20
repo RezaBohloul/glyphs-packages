@@ -3785,16 +3785,6 @@
 				};
 				url = "https://github.com/jansindl3r/Glyphs-Scripts";
 			},
-			{
-				descriptions = {
-					en = "Some useful scripts by Persian type designer Reza Bohloul.";
-				};
-				installName = RezaBohloul;
-				titles = {
-					en = "Reza Bohloul Scripts";
-				};
-				url = "https://github.com/RezaBohloul/RezaBohloul";
-			},
 			// *** INSERT NEW SCRIPTS ABOVE THIS LINE
 		);
 		modules = (
